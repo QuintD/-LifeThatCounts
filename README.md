@@ -1,2 +1,2 @@
 # -LifeThatCounts
-A website for significant living.
+A website for significant living.(Pending Project)
